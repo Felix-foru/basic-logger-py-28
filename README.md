@@ -1,2 +1,4 @@
-# basic-logger-py-28
+# Basic Logger Py 28
+
 A simple logging class in Python.
+
